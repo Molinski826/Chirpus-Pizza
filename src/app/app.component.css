@@ -1,0 +1,18 @@
+.menu {
+    text-align: center;
+    color: red;
+    background-color: white;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+  }
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  .soldOut {
+    color: gray;
+    text-decoration: line-through;
+  }
